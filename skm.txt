@@ -1,4 +1,4 @@
 i sky learning Giw
 
 <<<<<<< HEAD
-Changes done in s1 and master
+Changes done in s1 and master and s3 
